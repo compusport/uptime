@@ -4,10 +4,10 @@
     "url": "https://compusport.us",
     "icon": "https://icons.duckduckgo.com/ip3/compusport.us.ico",
     "slug": "compu-sport-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
@@ -15,17 +15,19 @@
     "timeWeek": 326,
     "timeMonth": 290,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "CompuSport Player App",
     "url": "https://compusport.us/app",
     "icon": "https://icons.duckduckgo.com/ip3/compusport.us.ico",
     "slug": "compu-sport-player-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
@@ -33,14 +35,16 @@
     "timeWeek": 124,
     "timeMonth": 114,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "CompuSport Manager App",
     "url": "https://compusport.us/cs",
     "icon": "https://icons.duckduckgo.com/ip3/compusport.us.ico",
     "slug": "compu-sport-manager-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 475,
     "timeMonth": 405,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   }
 ]
