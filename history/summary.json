@@ -6,17 +6,17 @@
     "slug": "compu-sport-landing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 361,
+    "time": 298,
+    "timeDay": 368,
     "timeWeek": 379,
-    "timeMonth": 311,
-    "timeYear": 297,
+    "timeMonth": 314,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 5
     }
   },
   {
