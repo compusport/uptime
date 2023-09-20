@@ -4,10 +4,10 @@
     "url": "https://compusport.us",
     "icon": "https://icons.duckduckgo.com/ip3/compusport.us.ico",
     "slug": "compu-sport-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 297,
@@ -16,6 +16,7 @@
     "timeMonth": 278,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-09-20": 1,
       "2023-07-26": 32
     }
   },
