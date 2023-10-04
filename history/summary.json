@@ -6,17 +6,17 @@
     "slug": "compu-sport-landing",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 297,
+    "time": 298,
     "timeDay": 398,
     "timeWeek": 254,
     "timeMonth": 281,
-    "timeYear": 297,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-10-04": 6,
+      "2023-10-04": 9,
       "2023-09-25": 16,
       "2023-09-20": 18,
       "2023-07-26": 32
@@ -29,9 +29,9 @@
     "slug": "compu-sport-player-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 164,
     "timeDay": 194,
@@ -39,7 +39,6 @@
     "timeMonth": 140,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-10-04": 4,
       "2023-07-26": 16
     }
   },
@@ -50,9 +49,9 @@
     "slug": "compu-sport-manager-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 619,
     "timeDay": 14051,
@@ -60,7 +59,6 @@
     "timeMonth": 1239,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-10-04": 3,
       "2023-09-20": 17
     }
   }
