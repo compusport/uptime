@@ -27,9 +27,9 @@
     "url": "https://compusport.us/app",
     "icon": "https://icons.duckduckgo.com/ip3/compusport.us.ico",
     "slug": "compu-sport-player-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
@@ -39,6 +39,7 @@
     "timeMonth": 1335,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-12": 22,
       "2023-10-07": 28,
       "2023-07-26": 16
